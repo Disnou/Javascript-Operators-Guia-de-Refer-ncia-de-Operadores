@@ -22,7 +22,7 @@ Operadores Lógicos: Implementação de lógica booleana usando && (AND), || (OR
 🛠️ Como Executar
 1. Tenha o Node.js instalado em sua máquina.
 2. Execute o comando no terminal:
-   bash
+   
    node operadores.js
 
    🇺🇸 English
